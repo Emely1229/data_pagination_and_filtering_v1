@@ -120,7 +120,7 @@ header h2 {
 	font-weight: 600;
 	font-size: 1.2rem;
   margin-bottom: 0.45em;
-  color: #1e90ff;
+  color: pink;
 }
 
 .student-item .email {
@@ -202,13 +202,13 @@ header h2 {
 	.page {
 		width: 70%;
 	}
-	
+
 	header {
 		flex-flow: row;
 		align-items: center;
 		padding: 3em 0;
 	}
-	
+
 	header h2 {
     margin-right: auto;
 		margin-bottom: 0;
