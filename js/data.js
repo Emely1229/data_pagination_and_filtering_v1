@@ -3,8 +3,7 @@ Treehouse Techdegree: Data Pagination and Filtering
 */
 
 // Array of student objects
-const data = [
-  {
+const data = [{
     name: {
       title: "Miss",
       first: "Ethel",
@@ -91,9 +90,9 @@ const data = [
   },
   {
     name: {
-      title: "Mr",
-      first: "Terrance",
-      last: "Newman",
+      title: 'Mr',
+      first: 'Terrance',
+      last: 'Newman',
     },
     email: "terrance.newman@example.com",
     registered: {
